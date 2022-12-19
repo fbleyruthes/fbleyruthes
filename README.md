@@ -5,7 +5,7 @@
 
 - 👨‍💻 Meus projetos web estão no [GitHub](GitHub)
 
-- 📫 E-mail: **fbr5001012@gmail.com**
+- 📫 E-mail: **fbleyruthes@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
