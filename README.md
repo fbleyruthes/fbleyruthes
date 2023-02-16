@@ -3,7 +3,7 @@
 
 - 🌱 Eu estou aprendendo **desenvolvimento web!**
 
-- 👨‍💻 Meus projetos web estão no [GitHub](GitHub)
+- 👨‍💻 Meus projetos estão no [GitHub](GitHub)
 
 - 📫 E-mail: **fbleyruthes@gmail.com**
 
