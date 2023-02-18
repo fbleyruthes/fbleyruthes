@@ -1,4 +1,4 @@
-<h1 align="center">Hey! 👋 I'm Francisco Bley Ruthes</h1>
+<h1 align="center">Hey! I'm Francisco Bley Ruthes 👋</h1>
 <h3 align="center">Futuro empreendedor e programador!</h3>
 
 - 🌱 I'm learning **web development!**;
