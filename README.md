@@ -1,11 +1,11 @@
 <h1 align="center">Hey! 👋, Eu sou Francisco Bley Ruthes</h1>
 <h3 align="center">Futuro empreendedor e programador!</h3>
 
-- 🌱 Eu estou aprendendo **desenvolvimento web!**
+- 🌱 I'm learning **web development!**;
 
-- 👨‍💻 Meus projetos estão no [GitHub](GitHub)
+- 👨‍💻 My projects are in [GitHub](GitHub);
 
-- 📫 E-mail: **fbleyruthes@gmail.com**
+- 📫 E-mail: **fbleyruthes@gmail.com**.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
