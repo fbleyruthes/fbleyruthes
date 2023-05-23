@@ -1,5 +1,5 @@
 <h1 align="center">Hello! I'm Francisco Bley Ruthes 👋</h1>
-<h3 align="center">A future entrepreneur and professional programmer!</h3>
+<h3 align="center">A future entrepreneur and programmer!</h3>
 
 - 🌱 I'm studying Computer Engineering at PUCPR, Curitiba-PR, Brazil! 
 
