@@ -1,6 +1,8 @@
 <h1 align="center">Hello! I'm Francisco Bley Ruthes 👋</h1>
 <h3 align="center">A future entrepreneur and professional programmer!</h3>
 
+- 🌱 I'm studying Computer Engineering at PUCPR, Curitiba-PR, Brazil! 
+
 - 🌱 I'm discovering and testing different technologies! **Welcome to my playground!**
 
 - 👨‍💻 My projects are in [GitHub](GitHub);
