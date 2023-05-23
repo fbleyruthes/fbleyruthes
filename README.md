@@ -1,7 +1,7 @@
-<h1 align="center">Hey! I'm Francisco Bley Ruthes 👋</h1>
+<h1 align="center">Hello! I'm Francisco Bley Ruthes 👋</h1>
 <h3 align="center">A future entrepreneur and professional programmer!</h3>
 
-- 🌱 I'm discovering and testing different technologies! **That's my playground!**;
+- 🌱 I'm discovering and testing different technologies! **Welcome to my playground!**
 
 - 👨‍💻 My projects are in [GitHub](GitHub);
 
