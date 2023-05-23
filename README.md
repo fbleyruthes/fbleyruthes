@@ -1,9 +1,11 @@
 <h1 align="center">Hey! I'm Francisco Bley Ruthes 👋</h1>
-<h3 align="center">A future entrepreneur and programmer!</h3>
+<h3 align="center">A future entrepreneur and professional programmer!</h3>
 
-- 🌱 I'm learning **web development!**;
+- 🌱 I'm discovering and testing different technologies! **That's my playground!**;
 
 - 👨‍💻 My projects are in [GitHub](GitHub);
+
+- 👀 My Linkedin: https://www.linkedin.com/in/francisco-bley-ruthes-b1919125b/ ;
 
 - 📫 E-mail: **fbleyruthes@gmail.com**.
 
