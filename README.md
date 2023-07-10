@@ -7,7 +7,7 @@
 
 - 👨‍💻 My projects are in [GitHub](GitHub);
 
-- 👀 My Linkedin: https://www.linkedin.com/in/francisco-bley-ruthes-b1919125b/ ;
+- 👀 Linkedin: https://www.linkedin.com/in/francisco-bley-ruthes-b1919125b/ ;
 
 - 📫 E-mail: **fbleyruthes@gmail.com**.
 
