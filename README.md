@@ -3,7 +3,7 @@
 
 - 🌱 I'm studying Computer Engineering at PUCPR, Curitiba-PR, Brazil! 
 
-- 🌱 I'm discovering and testing different technologies! **Welcome to my playground!**
+- ✨ I'm discovering and testing different technologies! **Welcome to my playground!**
 
 - 👨‍💻 My projects are in [GitHub](GitHub);
 
